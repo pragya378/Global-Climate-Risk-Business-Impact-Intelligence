@@ -143,8 +143,7 @@ A staging table was used to transform raw data before loading it into the final 
 Provides an overview of climate events, economic loss, insurance loss, affected population and deaths.
 
 
-
-!\[Executive Dashboard](Screenshots/Page1\_Executive\_Dashboard.png)
+<img src="Screenshots/Page1_Executive_Dashboard.png" width="900">
 
 
 
@@ -155,8 +154,7 @@ Provides an overview of climate events, economic loss, insurance loss, affected 
 Analyzes risk levels, disaster severity, country exposure and industry-level financial impact.
 
 
-
-!\[Risk \& Business Impact](Screenshots/Page2\_Risk\_Business\_Impact.png)
+<img src="Screenshots/Page2_Risk_Business_Impact.png" width="900">
 
 
 
@@ -168,7 +166,7 @@ Analyzes insurance losses and uninsured climate-related financial exposure acros
 
 
 
-!\[Insurance \& Financial Exposure](Screenshots/Page3\_Insurance\_Financial\_Exposure.png)
+<img src="Screenshots/Page3_Insurance_Financial_Exposure.png" width="900">
 
 
 
