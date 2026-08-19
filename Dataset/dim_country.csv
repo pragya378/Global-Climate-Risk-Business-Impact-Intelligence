@@ -1,0 +1,11 @@
+country_id,country_name,continent,region,gdp_usd_trillion,population
+1,India,Asia,"South Asia",3.94,1430000000
+2,"United States","North America","North America",29.18,340000000
+3,China,Asia,"East Asia",18.80,1410000000
+4,Germany,Europe,"Western Europe",4.70,84000000
+5,Brazil,"South America","South America",2.30,216000000
+6,Australia,Oceania,Australia,1.80,27000000
+7,Japan,Asia,"East Asia",4.10,124000000
+8,Canada,"North America","North America",2.20,41000000
+9,"United Kingdom",Europe,"Northern Europe",3.60,69000000
+10,"South Africa",Africa,"Southern Africa",0.40,63000000

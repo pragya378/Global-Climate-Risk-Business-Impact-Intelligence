@@ -1,0 +1,5 @@
+risk_id,risk_level,risk_score
+1,Low,1
+2,Moderate,2
+3,High,3
+4,Extreme,4

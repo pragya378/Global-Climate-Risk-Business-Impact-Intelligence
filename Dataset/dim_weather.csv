@@ -1,0 +1,9 @@
+weather_id,weather_type,temperature_category,rainfall_category
+1,Sunny,Hot,Low
+2,Cloudy,Moderate,Medium
+3,Rainy,Moderate,High
+4,Storm,Hot,Extreme
+5,Snow,Cold,Low
+6,Fog,Cold,Medium
+7,Thunderstorm,Hot,Extreme
+8,Windy,Moderate,Low
