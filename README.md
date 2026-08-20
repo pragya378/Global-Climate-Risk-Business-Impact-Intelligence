@@ -61,8 +61,7 @@ This project answers key business questions:
 \- Temperature, rainfall, carbon emissions and severity score
 
 
-
-> Dataset created for analytical and dashboard demonstration purposes.
+> **Note:** This project uses a synthetic dataset generated using Python. The climate-event and financial values are illustrative and do not represent actual reported climate or financial losses. The dataset is intended for demonstrating data generation, SQL data modeling, Power BI analysis, and dashboard development.
 
 
 
